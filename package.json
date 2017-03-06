@@ -1,0 +1,9 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "dependencies": {
+    "csv": "^1.1.1",
+    "csv-parser": "^1.11.0",
+    "fast-csv": "^2.3.1"
+  }
+}
